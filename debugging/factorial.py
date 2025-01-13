@@ -11,4 +11,4 @@ def factorial(n):
 
 
 f = factorial(int(sys.argv[1]))
-printf(f)
+print(f)
